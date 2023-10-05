@@ -25,9 +25,9 @@ The notebook includes examples of T-testing and F-testing, demonstrating the pra
 
 For a more detailed overview, feel free to examine the presentation in the notebook.
 
-[Link to Presentation](#)  <!-- Add the actual link to your presentation -->
+[Link to Slides](https://docs.google.com/presentation/d/1KiISbMJYC-NfwgtLXcYhDVi0Abou808ur4Xe_FXDLGI/edit#slide=id.g2884571448e_1_12)  <!-- Add the actual link to your presentation -->
 
-In the [Link to Presentation](#) section, replace # with the actual link to your presentation. This Markdown format provides a clear structure for presenting information about your hypothesis testing notebook on GitHub.
+
 
 
 
